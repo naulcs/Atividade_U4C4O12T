@@ -52,7 +52,7 @@ O projeto depende das bibliotecas da Raspberry Pi Pico SDK:
 - Criar padrões personalizáveis para exibição de caracteres adicionais.
 
 ## Autor
-Desenvolvido por [Luan Silva}
+Desenvolvido por [Luan Silva]
 
 ## Demonstração do Projeto 🎥
 
